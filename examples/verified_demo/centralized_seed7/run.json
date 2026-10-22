@@ -1,0 +1,37 @@
+{
+  "origin": "synthetic_demo",
+  "seed": 7,
+  "method": "centralized",
+  "config": {
+    "history": 10,
+    "clients": 3,
+    "partition": "receiver_hash",
+    "region_width_m": 1000,
+    "max_gap_s": 5,
+    "neighbor_ttl_s": 1,
+    "neighbor_radius_m": 300,
+    "epochs": 4,
+    "rounds": 3,
+    "local_epochs": 1,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "patience": 5,
+    "min_delta": 1e-06,
+    "threads": 1,
+    "q_low": 0.95,
+    "q_high": 0.99,
+    "calibration_min_windows": 50,
+    "baseline_max_samples": 5000,
+    "latency_samples": 100
+  },
+  "environment": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "torch": "2.14.1+cpu",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "ijson": "3.5.1"
+  },
+  "road_map": false,
+  "prepared_metadata_sha256": "a1463eb7fbda16f3d2aa2819fb67b8d525bd7927063b6a7e3d7a8b7ba744229e"
+}

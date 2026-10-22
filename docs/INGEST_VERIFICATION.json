@@ -1,0 +1,38 @@
+{
+  "changed_application_modules": [
+    "src/fedcontext/ingest.py"
+  ],
+  "tests_passed": 41,
+  "compatibility": {
+    "synthetic": {
+      "raw_messages": 30660,
+      "scored_windows": 26460,
+      "partitions": {
+        "test": 19860,
+        "train": 3300,
+        "selection": 1650,
+        "score_ref": 1375,
+        "calibration": 275
+      },
+      "arrays_exactly_equal": true,
+      "metadata_exactly_equal": true,
+      "messages_exactly_equal": true,
+      "audits_equal": true
+    },
+    "real_pilot": {
+      "raw_messages": 144196,
+      "scored_windows": 71148,
+      "partitions": {
+        "test": 42664,
+        "train": 18401,
+        "selection": 4542,
+        "calibration": 2525,
+        "score_ref": 3016
+      },
+      "arrays_exactly_equal": true,
+      "metadata_exactly_equal": true,
+      "messages_exactly_equal": true,
+      "audits_equal": true
+    }
+  }
+}

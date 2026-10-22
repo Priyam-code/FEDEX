@@ -1,0 +1,3 @@
+Put ONLY official attack-free VeReMi NextGen baseline ZIPs here.
+The manifest explicitly permits missing attacker fields in these baseline sources.
+Do not put attack archives here. Do not keep both ZIPs and extracted copies here.

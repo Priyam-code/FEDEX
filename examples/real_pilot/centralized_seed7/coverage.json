@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "variant": "benign",
+      "label": 0,
+      "raw_messages": 44259,
+      "scored_windows": 21332,
+      "coverage": 0.48198106599787616
+    },
+    {
+      "variant": "constantPositionOffset",
+      "label": 0,
+      "raw_messages": 35549,
+      "scored_windows": 17216,
+      "coverage": 0.48428929083799827
+    },
+    {
+      "variant": "constantPositionOffset",
+      "label": 1,
+      "raw_messages": 8710,
+      "scored_windows": 4116,
+      "coverage": 0.4725602755453502
+    }
+  ],
+  "average_feature_ms": 0.09069555930892413,
+  "note": "Warm-up/reset histories are excluded; coverage must accompany detection rates."
+}

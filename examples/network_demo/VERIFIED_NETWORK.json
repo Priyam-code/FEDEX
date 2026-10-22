@@ -1,0 +1,25 @@
+{
+  "origin": "synthetic_demo",
+  "transport": "HTTP over 127.0.0.1",
+  "separate_server_process": true,
+  "separate_client_processes": 3,
+  "clients": {
+    "0": 1650,
+    "1": 1375,
+    "2": 275
+  },
+  "completed_rounds": 2,
+  "accepted_uploads": 6,
+  "final_server_sha256": "ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509",
+  "client_final_sha256": {
+    "0": "ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509",
+    "1": "ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509",
+    "2": "ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509"
+  },
+  "exact_tensor_equality": true,
+  "calibration_and_test_evaluation_completed": true,
+  "streaming_inference_completed": true,
+  "actual_upload_body_bytes": 321516,
+  "model_download_body_bytes": 482274,
+  "limitations": "Synthetic functional test, not cloud deployment or VeReMi accuracy. Byte counts exclude HTTP/TLS/TCP overhead and status polling."
+}

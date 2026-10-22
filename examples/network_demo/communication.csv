@@ -1,0 +1,3 @@
+round,participants,train_windows,unique_upload_body_bytes,model_download_body_bytes,round_seconds,global_sha256
+1,3,3300,160758,160758,3.598927455999956,00d7761d66c2755d1552da2bdcd6e9a795ce9ce892d6959943657f1e41782d3f
+2,3,3300,160758,160758,0.3539399969999977,ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509

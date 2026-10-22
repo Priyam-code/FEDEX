@@ -1,0 +1,69 @@
+{
+  "groups": [
+    {
+      "variant": "benign",
+      "label": 0,
+      "raw_messages": 3900,
+      "scored_windows": 3300,
+      "coverage": 0.8461538461538461
+    },
+    {
+      "variant": "constantPositionOffset",
+      "label": 0,
+      "raw_messages": 3060,
+      "scored_windows": 2460,
+      "coverage": 0.803921568627451
+    },
+    {
+      "variant": "constantPositionOffset",
+      "label": 1,
+      "raw_messages": 840,
+      "scored_windows": 840,
+      "coverage": 1.0
+    },
+    {
+      "variant": "dosAttack",
+      "label": 0,
+      "raw_messages": 3060,
+      "scored_windows": 2460,
+      "coverage": 0.803921568627451
+    },
+    {
+      "variant": "dosAttack",
+      "label": 1,
+      "raw_messages": 4200,
+      "scored_windows": 4200,
+      "coverage": 1.0
+    },
+    {
+      "variant": "reversedHeading",
+      "label": 0,
+      "raw_messages": 3060,
+      "scored_windows": 2460,
+      "coverage": 0.803921568627451
+    },
+    {
+      "variant": "reversedHeading",
+      "label": 1,
+      "raw_messages": 840,
+      "scored_windows": 840,
+      "coverage": 1.0
+    },
+    {
+      "variant": "timeDelayAttack",
+      "label": 0,
+      "raw_messages": 3060,
+      "scored_windows": 2460,
+      "coverage": 0.803921568627451
+    },
+    {
+      "variant": "timeDelayAttack",
+      "label": 1,
+      "raw_messages": 840,
+      "scored_windows": 840,
+      "coverage": 1.0
+    }
+  ],
+  "average_feature_ms": 0.1825871838552029,
+  "note": "Warm-up/reset histories are excluded; coverage must accompany detection rates."
+}

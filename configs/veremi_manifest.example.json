@@ -1,0 +1,17 @@
+{
+  "origin": "veremi_nextgen",
+  "timestamp_unit": "ns",
+  "sources": [
+    {
+      "path": "../data/raw/benign",
+      "role": "baseline",
+      "assume_benign": true
+    },
+    {
+      "path": "../data/raw/attacks",
+      "role": "attack",
+      "assume_benign": false
+    }
+  ],
+  "notes": "Paths are relative to this manifest. Put ONLY fully extracted official attack-free baseline JSON arrays under benign; put fully extracted attack JSON arrays under attacks. Keep ZIPs outside both source directories. Missing attack labels are errors. Official Train/Validation/Test paths determine splits. See docs/INGEST_FORMAT.md."
+}

@@ -1,0 +1,9 @@
+{
+  "clients": {
+    "0": 720,
+    "1": 21,
+    "3": 118,
+    "4": 17542
+  },
+  "note": "Distribute only client_N to RSU N. Server receives only server/federation.json, never train.npz. Keep tokens private."
+}

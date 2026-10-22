@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="572.4pt" height="402.48pt" viewBox="0 0 572.4 402.48" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T10:31:14.549814</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 402.48 
+L 572.4 402.48 
+L 572.4 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 43.47 150.7896 
+L 528.93 150.7896 
+Q 533.952 150.7896 533.952 145.8 
+L 533.952 43.236 
+Q 533.952 38.2464 528.93 38.2464 
+L 43.47 38.2464 
+Q 38.448 38.2464 38.448 43.236 
+L 38.448 145.8 
+Q 38.448 150.7896 43.47 150.7896 
+z
+" clip-path="url(#pf21e0568fc)" style="fill: #2166ac; fill-opacity: 0.062745; stroke: #2166ac; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 26.73 306.0216 
+L 169.02 306.0216 
+Q 174.042 306.0216 174.042 301.032 
+L 174.042 245.592 
+Q 174.042 240.6024 169.02 240.6024 
+L 26.73 240.6024 
+Q 21.708 240.6024 21.708 245.592 
+L 21.708 301.032 
+Q 21.708 306.0216 26.73 306.0216 
+z
+" clip-path="url(#pf21e0568fc)" style="fill: #218768; fill-opacity: 0.062745; stroke: #218768; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 213.66 306.0216 
+L 355.95 306.0216 
+Q 360.972 306.0216 360.972 301.032 
+L 360.972 245.592 
+Q 360.972 240.6024 355.95 240.6024 
+L 213.66 240.6024 
+Q 208.638 240.6024 208.638 245.592 
+L 208.638 301.032 
+Q 208.638 306.0216 213.66 306.0216 
+z
+" clip-path="url(#pf21e0568fc)" style="fill: #218768; fill-opacity: 0.062745; stroke: #218768; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 400.59 306.0216 
+L 542.88 306.0216 
+Q 547.902 306.0216 547.902 301.032 
+L 547.902 245.592 
+Q 547.902 240.6024 542.88 240.6024 
+L 400.59 240.6024 
+Q 395.568 240.6024 395.568 245.592 
+L 395.568 301.032 
+Q 395.568 306.0216 400.59 306.0216 
+z
+" clip-path="url(#pf21e0568fc)" style="fill: #218768; fill-opacity: 0.062745; stroke: #218768; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(140.578125 72.222844)">Cloud coordinator: wait for every registered RSU</text>
+    <!-- $\theta^{r+1}=\sum_k \frac{n_k}{\sum_j n_j}\theta_k^{r}$ -->
+    <g style="fill: #243447" transform="translate(245.1 93.078469)">
+     <text>
+      <tspan x="0" y="-0.796875" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243447">θ</tspan>
+      <tspan x="69.618613" y="-0.796875" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #243447">θ</tspan>
+      <tspan x="8.249609" y="-5.390625" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243447">r</tspan>
+      <tspan x="45.417383" y="11.10625" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243447">k</tspan>
+      <tspan x="56.308008" y="-7.432813" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243447">n</tspan>
+      <tspan x="60.931445" y="6.2375" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243447">n</tspan>
+      <tspan x="76.96041" y="2.484375" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243447">k</tspan>
+      <tspan x="77.868223" y="-5.403125" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243447">r</tspan>
+      <tspan x="13.339648" y="-5.390625" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243447">+</tspan>
+      <tspan x="22.014453" y="-5.390625" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243447">1</tspan>
+      <tspan x="30.024805" y="-0.796875" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243447">=</tspan>
+      <tspan x="42.417383" y="-0.796875" style="font-size: 12px; font-family: 'DejaVu Sans Display'; fill: #243447">∑</tspan>
+      <tspan x="56.308008" y="14.569687" style="font-style: oblique; font-size: 5.88px; font-family: 'DejaVu Sans'; fill: #243447">j</tspan>
+      <tspan x="61.631836" y="-6.054688" style="font-style: oblique; font-size: 5.88px; font-family: 'DejaVu Sans'; fill: #243447">k</tspan>
+      <tspan x="66.255273" y="7.615625" style="font-style: oblique; font-size: 5.88px; font-family: 'DejaVu Sans'; fill: #243447">j</tspan>
+      <tspan x="53.308008" y="6.2375" style="font-size: 8.4px; font-family: 'DejaVu Sans Display'; fill: #243447">∑</tspan>
+     </text>
+     <rect x="53.308008" y="-4.054688" width="14.810605" height="0.75"/>
+    </g>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(96.282187 123.435656)">Match tensors within each model; save the next global weights</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(84.089531 263.665828)">RSU A</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(48.497344 275.795437)">Local benign windows</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(33.920156 287.925047)">Download → Adam → upload</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 60.21 238.047504 
+Q 60.21 195.69461 60.21 154.739258 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 58.21 158.739258 
+L 60.21 154.739258 
+L 62.21 158.739258 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 135.54 153.344496 
+Q 135.54 195.69739 135.54 236.652742 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 137.54 232.652742 
+L 135.54 236.652742 
+L 133.54 232.652742 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <g id="patch_8">
+     <path d="M 68.525156 204.299719 
+L 68.525156 164.843156 
+L 51.894844 164.843156 
+L 51.894844 204.299719 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(62.693438 200.339719) rotate(-90)">Upload</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_9">
+     <path d="M 143.855156 204.299719 
+L 143.855156 149.180344 
+L 127.224844 149.180344 
+L 127.224844 204.299719 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(138.023438 200.339719) rotate(-90)">Fetch next</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(271.010391 263.665828)">RSU B</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(235.427344 275.795437)">Local benign windows</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(220.850156 287.925047)">Download → Adam → upload</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 247.14 238.047504 
+Q 247.14 195.69461 247.14 154.739258 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 245.14 158.739258 
+L 247.14 154.739258 
+L 249.14 158.739258 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 322.47 153.344496 
+Q 322.47 195.69739 322.47 236.652742 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 324.47 232.652742 
+L 322.47 236.652742 
+L 320.47 232.652742 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <g id="patch_12">
+     <path d="M 255.455156 204.299719 
+L 255.455156 164.843156 
+L 238.824844 164.843156 
+L 238.824844 204.299719 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(249.623437 200.339719) rotate(-90)">Upload</text>
+   </g>
+   <g id="text_7">
+    <g id="patch_13">
+     <path d="M 330.785156 204.299719 
+L 330.785156 149.180344 
+L 314.154844 149.180344 
+L 314.154844 204.299719 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(324.953438 200.339719) rotate(-90)">Fetch next</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(458.076797 263.665828)">RSU K</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(422.357344 275.795437)">Local benign windows</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(407.780156 287.925047)">Download → Adam → upload</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 434.07 238.047504 
+Q 434.07 195.69461 434.07 154.739258 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 432.07 158.739258 
+L 434.07 154.739258 
+L 436.07 158.739258 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 509.4 153.344496 
+Q 509.4 195.69739 509.4 236.652742 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 511.4 232.652742 
+L 509.4 236.652742 
+L 507.4 232.652742 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <g id="patch_16">
+     <path d="M 442.385156 204.299719 
+L 442.385156 164.843156 
+L 425.754844 164.843156 
+L 425.754844 204.299719 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(436.553438 200.339719) rotate(-90)">Upload</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_17">
+     <path d="M 517.715156 204.299719 
+L 517.715156 149.180344 
+L 501.084844 149.180344 
+L 501.084844 204.299719 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(511.883438 200.339719) rotate(-90)">Fetch next</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="286.2" y="348.156" transform="rotate(-0 286.2 348.156)">Upward arrows: updated weights. Downward arrows: averaged global weights.</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="286.2" y="373.104" transform="rotate(-0 286.2 373.104)">Synchronous rounds; weights travel over HTTP/HTTPS. Raw training windows stay at RSUs.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf21e0568fc">
+   <rect x="7.2" y="7.2" width="558" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>

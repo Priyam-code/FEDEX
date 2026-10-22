@@ -1,0 +1,18 @@
+{"time": "2026-10-09T04:56:29.318934+00:00", "event": "server_started", "participants": ["0", "1", "2"]}
+{"time": "2026-10-09T04:56:32.568671+00:00", "event": "model_download", "client": "1", "round": 1, "payload_bytes": 53586, "sha256": "732d67f32a4d3e9b5e7d00d89b53124cf31f000f43a9ce51f90a0f7ec353ca51"}
+{"time": "2026-10-09T04:56:32.651384+00:00", "event": "model_download", "client": "2", "round": 1, "payload_bytes": 53586, "sha256": "732d67f32a4d3e9b5e7d00d89b53124cf31f000f43a9ce51f90a0f7ec353ca51"}
+{"time": "2026-10-09T04:56:32.667609+00:00", "event": "update_accepted", "client": "1", "round": 1, "payload_bytes": 53586, "samples": 1375, "sha256": "4d8160af53b92fc89786f62833d0f7947306517d0db8c48d2327f7bdb2db6960"}
+{"time": "2026-10-09T04:56:32.685913+00:00", "event": "update_accepted", "client": "2", "round": 1, "payload_bytes": 53586, "samples": 275, "sha256": "12724cd6f2633d9dfbbbeea58c879395835f1b5ab3e1439fbad3f91996442639"}
+{"time": "2026-10-09T04:56:32.779284+00:00", "event": "model_download", "client": "0", "round": 1, "payload_bytes": 53586, "sha256": "732d67f32a4d3e9b5e7d00d89b53124cf31f000f43a9ce51f90a0f7ec353ca51"}
+{"time": "2026-10-09T04:56:32.913810+00:00", "event": "update_accepted", "client": "0", "round": 1, "payload_bytes": 53586, "samples": 1650, "sha256": "b6cd01f1b7cfc1e1edc49da548f8fb64257f21f596e780aa82c5296a1378fa13"}
+{"time": "2026-10-09T04:56:32.917709+00:00", "event": "round_aggregated", "round": 1, "sha256": "00d7761d66c2755d1552da2bdcd6e9a795ce9ce892d6959943657f1e41782d3f"}
+{"time": "2026-10-09T04:56:32.919750+00:00", "event": "model_download", "client": "0", "round": 2, "payload_bytes": 53586, "sha256": "00d7761d66c2755d1552da2bdcd6e9a795ce9ce892d6959943657f1e41782d3f"}
+{"time": "2026-10-09T04:56:33.044537+00:00", "event": "update_accepted", "client": "0", "round": 2, "payload_bytes": 53586, "samples": 1650, "sha256": "5f91dc892fac7a8907353128c70f2e549a1c66736a69b978ba8523081f6fa09c"}
+{"time": "2026-10-09T04:56:33.171065+00:00", "event": "model_download", "client": "1", "round": 2, "payload_bytes": 53586, "sha256": "00d7761d66c2755d1552da2bdcd6e9a795ce9ce892d6959943657f1e41782d3f"}
+{"time": "2026-10-09T04:56:33.188971+00:00", "event": "model_download", "client": "2", "round": 2, "payload_bytes": 53586, "sha256": "00d7761d66c2755d1552da2bdcd6e9a795ce9ce892d6959943657f1e41782d3f"}
+{"time": "2026-10-09T04:56:33.221366+00:00", "event": "update_accepted", "client": "2", "round": 2, "payload_bytes": 53586, "samples": 275, "sha256": "1ebc7c9b72e124a32ac6b9d7ff01a8234b7c6b7d3ef86fcae67aa7343dbcbfeb"}
+{"time": "2026-10-09T04:56:33.268804+00:00", "event": "update_accepted", "client": "1", "round": 2, "payload_bytes": 53586, "samples": 1375, "sha256": "026d76b24266c13457d46cac2ce559482a70bb6c06660197c4d5c3140964a618"}
+{"time": "2026-10-09T04:56:33.271802+00:00", "event": "round_aggregated", "round": 2, "sha256": "ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509"}
+{"time": "2026-10-09T04:56:33.274141+00:00", "event": "model_download", "client": "1", "round": 3, "payload_bytes": 53586, "sha256": "ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509"}
+{"time": "2026-10-09T04:56:33.548006+00:00", "event": "model_download", "client": "0", "round": 3, "payload_bytes": 53586, "sha256": "ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509"}
+{"time": "2026-10-09T04:56:33.726631+00:00", "event": "model_download", "client": "2", "round": 3, "payload_bytes": 53586, "sha256": "ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509"}

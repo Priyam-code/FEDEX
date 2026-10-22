@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fedcontext-v2x"
+version = "0.1.0"
+description = "Reproducible three-stream V2X anomaly-detection research prototype"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "pandas>=2.2,<4", "scikit-learn>=1.5,<2", "torch>=2.6,<3", "matplotlib>=3.8,<4", "PyYAML>=6,<7", "ijson>=3.3,<4", "joblib>=1.4,<2"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+fedcontext = "fedcontext.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

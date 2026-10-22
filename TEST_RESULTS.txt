@@ -1,0 +1,8 @@
+Network revision, 2026-10-09
+............................................... [100%]
+47 passed in 3.86s
+
+Separate-process network smoke test: passed.
+3 RSUs, 2 rounds, 6 HTTP uploads, identical final models, calibration/evaluation/streaming passed.
+See docs/NETWORK_VERIFICATION.md and examples/network_demo/VERIFIED_NETWORK.json.
+Previous ingestion compatibility evidence remains in docs/INGEST_VERIFICATION.md.

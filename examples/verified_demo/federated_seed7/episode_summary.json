@@ -1,0 +1,5 @@
+{
+  "episodes": 96,
+  "detected": 33,
+  "note": "Latency measured from FIRST SCORED attack message. Undetected episodes are retained with null delay, not averaged as zero. Pseudonym changes/warmup obscure actual onset."
+}

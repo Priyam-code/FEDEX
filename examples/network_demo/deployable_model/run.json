@@ -1,0 +1,32 @@
+{
+  "config": {
+    "history": 10,
+    "clients": 3,
+    "partition": "receiver_hash",
+    "region_width_m": 1000,
+    "max_gap_s": 5,
+    "neighbor_ttl_s": 1,
+    "neighbor_radius_m": 300,
+    "epochs": 40,
+    "rounds": 2,
+    "local_epochs": 1,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "patience": 5,
+    "min_delta": 1e-06,
+    "threads": 1,
+    "q_low": 0.95,
+    "q_high": 0.99,
+    "calibration_min_windows": 50,
+    "baseline_max_samples": 20000,
+    "latency_samples": 30
+  },
+  "seed": 7,
+  "origin": "synthetic_demo",
+  "method": "network_fedavg",
+  "road_map": false,
+  "federation_id": "b20dcc3a923a428e80e71444627acd4f",
+  "run_id": "0d13c771a2924bf6962707085dbcc6fc",
+  "note": "Weights only until separate benign calibration. Server has no training/selection/calibration data.",
+  "calibration_scope": "Separate trusted offline evaluation machine; not federated calibration"
+}

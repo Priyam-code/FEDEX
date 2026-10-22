@@ -1,0 +1,16 @@
+{
+  "mode": "centralized",
+  "seed": 7,
+  "best_step": 4,
+  "executed_steps": 4,
+  "seconds": 2.3759833359999902,
+  "parameters": 11323,
+  "parameter_bytes": 45292,
+  "artifact_bytes": 53953,
+  "active_clients": 3,
+  "train_windows": 3300,
+  "selection_windows": 1650,
+  "communication_bytes": 0,
+  "communication_scope": "float32 model payload only; excludes transport, setup, validation/calibration metadata and OBU distribution",
+  "privacy": "Simulation only. Plain FedAvg; no secure aggregation, differential privacy, networking or poisoning protection."
+}

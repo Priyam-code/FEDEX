@@ -1,0 +1,3 @@
+Put official attack ZIPs here. Keep full Train/Validation/Test paths inside them.
+Only Test records are used by the primary benign-only protocol.
+An attack archive contains both benign and attack-labelled messages: do NOT label all rows 1.

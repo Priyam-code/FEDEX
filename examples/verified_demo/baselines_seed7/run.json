@@ -1,0 +1,38 @@
+{
+  "origin": "synthetic_demo",
+  "seed": 7,
+  "config": {
+    "history": 10,
+    "clients": 3,
+    "partition": "receiver_hash",
+    "region_width_m": 1000,
+    "max_gap_s": 5,
+    "neighbor_ttl_s": 1,
+    "neighbor_radius_m": 300,
+    "epochs": 4,
+    "rounds": 3,
+    "local_epochs": 1,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "patience": 5,
+    "min_delta": 1e-06,
+    "threads": 1,
+    "q_low": 0.95,
+    "q_high": 0.99,
+    "calibration_min_windows": 50,
+    "baseline_max_samples": 5000,
+    "latency_samples": 100
+  },
+  "settings": {
+    "isolation_forest": {
+      "train_samples": 3300,
+      "low": 0.5320837078962897,
+      "high": 0.578674553105415
+    },
+    "one_class_svm": {
+      "train_samples": 3300,
+      "low": -148.72257471331886,
+      "high": -147.13149578766453
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "origin": "synthetic_demo",
+  "timestamp_unit": "ns",
+  "sources": [
+    {
+      "path": "benign",
+      "role": "baseline",
+      "assume_benign": true,
+      "scenario": "synthetic"
+    },
+    {
+      "path": "attacks",
+      "role": "attack",
+      "assume_benign": false,
+      "scenario": "synthetic"
+    }
+  ],
+  "warning": "Generated toy trajectories and obvious attacks. NEVER claim these as VeReMi or publication performance."
+}

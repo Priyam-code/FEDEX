@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+runs/
+data/processed*/
+data/veremi_processed/
+data/veremi_expanded_eval/
+data/raw/**/*.zip
+data/raw/**/*.json
+data/raw/**/*.jsonl
+dist/

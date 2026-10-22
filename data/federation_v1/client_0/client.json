@@ -1,0 +1,32 @@
+{
+  "protocol": 1,
+  "federation_id": "ddd5228c4d1d4820afdf0ba230d6252e",
+  "config": {
+    "history": 10,
+    "clients": 5,
+    "partition": "spatial",
+    "region_width_m": 1000,
+    "max_gap_s": 5,
+    "neighbor_ttl_s": 1,
+    "neighbor_radius_m": 300,
+    "epochs": 40,
+    "rounds": 20,
+    "local_epochs": 2,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "patience": 5,
+    "min_delta": 1e-06,
+    "threads": 1,
+    "q_low": 0.95,
+    "q_high": 0.99,
+    "calibration_min_windows": 200,
+    "baseline_max_samples": 20000,
+    "latency_samples": 500
+  },
+  "seed": 7,
+  "origin": "veremi_nextgen",
+  "road_map": false,
+  "client_id": "0",
+  "samples": 720,
+  "token": "dMEIdumTi0W9rlPpS_f_HkjsYTZA6kULB0jEAHT-M8c"
+}

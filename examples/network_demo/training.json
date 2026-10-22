@@ -1,0 +1,11 @@
+{
+  "mode": "network_fedavg",
+  "completed_rounds": 2,
+  "planned_rounds": 2,
+  "active_clients": 3,
+  "seconds": 3.953241797000146,
+  "final_model_sha256": "ccba27afda2d40ecbf54b51f4b740e865c6d4de02f7d9450639ed0d5afbed509",
+  "finished": true,
+  "communication_scope": "Recorded HTTP model body bytes; excludes HTTP/TLS/TCP headers and status polling. Final-model downloads are in network_events.jsonl.",
+  "privacy": "Per-client bearer authentication; optional TLS. Server sees individual weights. No secure aggregation, DP, poisoning defence or server restart recovery."
+}

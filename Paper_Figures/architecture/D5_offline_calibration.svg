@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="572.4pt" height="402.48pt" viewBox="0 0 572.4 402.48" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T10:31:15.259775</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 402.48 
+L 572.4 402.48 
+L 572.4 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 155.07 73.1736 
+L 417.33 73.1736 
+Q 422.352 73.1736 422.352 68.184 
+L 422.352 29.376 
+Q 422.352 24.3864 417.33 24.3864 
+L 155.07 24.3864 
+Q 150.048 24.3864 150.048 29.376 
+L 150.048 68.184 
+Q 150.048 73.1736 155.07 73.1736 
+z
+" clip-path="url(#p6062120b19)" style="fill: #218768; fill-opacity: 0.062745; stroke: #218768; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 37.89 164.6496 
+L 255.51 164.6496 
+Q 260.532 164.6496 260.532 159.66 
+L 260.532 112.536 
+Q 260.532 107.5464 255.51 107.5464 
+L 37.89 107.5464 
+Q 32.868 107.5464 32.868 112.536 
+L 32.868 159.66 
+Q 32.868 164.6496 37.89 164.6496 
+z
+" clip-path="url(#p6062120b19)" style="fill: #2166ac; fill-opacity: 0.062745; stroke: #2166ac; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 316.89 164.6496 
+L 534.51 164.6496 
+Q 539.532 164.6496 539.532 159.66 
+L 539.532 112.536 
+Q 539.532 107.5464 534.51 107.5464 
+L 316.89 107.5464 
+Q 311.868 107.5464 311.868 112.536 
+L 311.868 159.66 
+Q 311.868 164.6496 316.89 164.6496 
+z
+" clip-path="url(#p6062120b19)" style="fill: #2166ac; fill-opacity: 0.062745; stroke: #2166ac; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 121.59 256.1256 
+L 450.81 256.1256 
+Q 455.832 256.1256 455.832 251.136 
+L 455.832 201.24 
+Q 455.832 196.2504 450.81 196.2504 
+L 121.59 196.2504 
+Q 116.568 196.2504 116.568 201.24 
+L 116.568 251.136 
+Q 116.568 256.1256 121.59 256.1256 
+z
+" clip-path="url(#p6062120b19)" style="fill: #be6a16; fill-opacity: 0.062745; stroke: #be6a16; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 121.59 344.8296 
+L 450.81 344.8296 
+Q 455.832 344.8296 455.832 339.84 
+L 455.832 289.944 
+Q 455.832 284.9544 450.81 284.9544 
+L 121.59 284.9544 
+Q 116.568 284.9544 116.568 289.944 
+L 116.568 339.84 
+Q 116.568 344.8296 121.59 344.8296 
+z
+" clip-path="url(#p6062120b19)" style="fill: #218768; fill-opacity: 0.062745; stroke: #218768; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243447" x="286.2" y="51.539375" transform="rotate(-0 286.2 51.539375)">Final global weights are frozen</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(87.272578 126.451828)">Benign reference windows</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(100.264219 138.581437)">Run all three models</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(77.335312 150.711047)">Sort each stream's MSE values</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(342.359297 126.451828)">Separate benign calibration windows</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(361.286719 138.581437)">Run the same frozen models</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(349.859531 150.711047)">Get three MSE values per window</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 284.254459 74.191917 
+Q 216.449027 90.360232 150.003024 106.204389 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 154.357833 107.222051 
+L 150.003024 106.204389 
+L 153.430039 103.331138 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 288.145541 74.191917 
+Q 355.950973 90.360232 422.396976 106.204389 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 418.969961 103.331138 
+L 422.396976 106.204389 
+L 418.042167 107.222051 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(161.021094 215.470031)">Rank each error against the reference distribution</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(149.93125 228.947375)">rank = count(reference error ≤ current error) / (N + 1)</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(188.610937 242.424719)">Fused score = mean of the three ranks</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 148.577426 165.887948 
+Q 188.548582 180.449484 227.206618 194.532648 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 224.132837 191.284284 
+L 227.206618 194.532648 
+L 222.763658 195.042654 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 423.822574 165.887948 
+Q 383.851418 180.449484 345.193382 194.532648 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 349.636342 195.042654 
+L 345.193382 194.532648 
+L 348.267163 191.284284 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(172.585156 304.174031)">low = 95th percentile; high = 99th percentile</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(180.105469 317.651375)">Use the higher-order-statistic quantile rule</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #243447" transform="translate(140.519531 331.128719)">Save calibration.json and keep thresholds fixed for testing</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 286.2 258.679819 
+Q 286.2 270.539925 286.2 281.002487 
+" style="fill: none; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+    <path d="M 288.2 277.002487 
+L 286.2 281.002487 
+L 284.2 277.002487 
+z
+" style="fill: #243447; stroke: #243447; stroke-width: 1.25; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="286.2" y="378.648" transform="rotate(-0 286.2 378.648)">Scores are anomaly ranks, not probabilities of an attack. Quantiles are configurable.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6062120b19">
+   <rect x="7.2" y="7.2" width="558" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "origin": "veremi_nextgen",
+  "timestamp_unit": "ns",
+  "sources": [
+    {
+      "path": "InTAS_highway_2.zip",
+      "role": "baseline",
+      "assume_benign": true
+    },
+    {
+      "path": "InTAS_highway_2_constantPositionOffset.zip",
+      "role": "attack",
+      "assume_benign": false
+    }
+  ]
+}

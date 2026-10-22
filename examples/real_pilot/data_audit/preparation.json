@@ -1,0 +1,106 @@
+{
+  "origin": "veremi_nextgen",
+  "config": {
+    "history": 10,
+    "clients": 3,
+    "partition": "receiver_hash",
+    "region_width_m": 1000,
+    "max_gap_s": 5,
+    "neighbor_ttl_s": 1,
+    "neighbor_radius_m": 300,
+    "epochs": 4,
+    "rounds": 3,
+    "local_epochs": 1,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "patience": 5,
+    "min_delta": 1e-06,
+    "threads": 1,
+    "q_low": 0.95,
+    "q_high": 0.99,
+    "calibration_min_windows": 50,
+    "baseline_max_samples": 5000,
+    "latency_samples": 100
+  },
+  "partitions": {
+    "test": 42664,
+    "train": 18401,
+    "selection": 4542,
+    "calibration": 2525,
+    "score_ref": 3016
+  },
+  "features": {
+    "movement": [
+      "dx",
+      "dy",
+      "speed",
+      "acceleration",
+      "heading_sin",
+      "heading_cos"
+    ],
+    "timing": [
+      "receive_gap",
+      "send_gap",
+      "delay",
+      "sender_rate_1s",
+      "receive_jitter",
+      "repeat_id_fraction",
+      "repeat_payload_fraction"
+    ],
+    "context": [
+      "neighbor_count",
+      "neighbor_median_speed",
+      "speed_difference",
+      "nearest_distance",
+      "heading_disagreement",
+      "receiver_distance",
+      "road_distance",
+      "road_heading_difference",
+      "has_neighbors",
+      "has_road_map"
+    ]
+  },
+  "fixed_scales": {
+    "movement": [
+      10,
+      10,
+      40,
+      10,
+      1,
+      1
+    ],
+    "timing": [
+      1,
+      1,
+      0.1,
+      10,
+      0.2,
+      1,
+      1
+    ],
+    "context": [
+      20,
+      40,
+      40,
+      300,
+      180,
+      300,
+      10,
+      180,
+      1,
+      1
+    ]
+  },
+  "road_map": false,
+  "raw_messages": 144196,
+  "scored_windows": 71148,
+  "window_coverage": 0.4934117451246914,
+  "feature_processing_seconds": 13.077936870109625,
+  "average_feature_ms": 0.09069555930892413,
+  "client_train_counts": {
+    "0": 6343,
+    "1": 6026,
+    "2": 6032
+  },
+  "note": "Timing duplicates are preserved. Ground truth is excluded from features. Warm-up messages are not scored."
+}

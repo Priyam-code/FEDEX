@@ -1,0 +1,599 @@
+{
+  "origin": "synthetic_demo",
+  "files": [
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_0.json",
+      "sha256": "b272b1071fc743c4cd1041e182fcb3beac5e43398314d3ed1c56bc3f0c6c1058",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_1.json",
+      "sha256": "2e86e52ffbf7be7209dcb30b3a65776c288517598924a22dc87e167e69c16473",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_10.json",
+      "sha256": "22ede35ad2edd94b34906db9e9be2bdaf1ca734bab477c7364d2b604621dbc6f",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_11.json",
+      "sha256": "2ce79ba0938374a9b52e356f050710f11b59400212a4539a1664d511d3e28f2d",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_2.json",
+      "sha256": "14923ef22497b1b0871b713573ea71a653fa193ba3069af983cbb04014802cd4",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_3.json",
+      "sha256": "a050b91468e0cc0117a11532682dccfb03c075f646f183e3bd3fb85a00977536",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_4.json",
+      "sha256": "40f51787e5a08e0a07c3ecf07a7c09e4130511602b5751836f52bef9d1136a86",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_5.json",
+      "sha256": "e77696422b4f791adbbd1ba9fad83f8f9b8abac2cc28765a1fda2360bd51807a",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_6.json",
+      "sha256": "147e203ed99f24a16f50bd4e0ff6b62a0a313c80bab76512b4e1c03faa965533",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_7.json",
+      "sha256": "01c8d9e7ccd1678aeecce68fc6f6f6b440d0cc28dd6bfa4eed5a3bfa8000bb94",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_8.json",
+      "sha256": "39451b9904b513045d902309fa784f12f4553c49ab209b7595166b5156362bd0",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Test/receiver_9.json",
+      "sha256": "ca09b12946b66a851870afa0f11dd603085d110a4831bd37ac164d74f2f8dd10",
+      "split": "test",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_0.json",
+      "sha256": "5357763236eab08cb9fff4411cdfebb0d2c6239b146f21be1dc8360c74489f88",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_1.json",
+      "sha256": "e06a83dc759ae16e006fda5664161904f3391e459151591a153a419893a75331",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_10.json",
+      "sha256": "6342d7e04b10b1f0fe9c90b1c04cc41e1b2b4a40631cd857c6d53d39adc02483",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_11.json",
+      "sha256": "b354f75c0e30d97905aebf34ad185552a1cec901baa3219c03a7d34ae17ed467",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_2.json",
+      "sha256": "d9b2baf05e5d64cecddddf897509bce659ae5d63706177c240e598a6afef2b6a",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_3.json",
+      "sha256": "bb84686e4fc6ae48d6d62d1a4b5d7a1581ad8f31fecdce8b25197ccaca7fa65a",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_4.json",
+      "sha256": "8c081f0050f6d3799395d0ff26d32f75470511a03bedcfb38961f8a03b592528",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_5.json",
+      "sha256": "383810f75731472cc0c7fe2c499e382f824e88049ca78f2cbffab3759787a33c",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_6.json",
+      "sha256": "dc5802ce47deb68399c4b270ad0362a93160449c3b4c5b770d34b73e25573db7",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_7.json",
+      "sha256": "4bc1fdb02468f07cfff17e13bbce2197a518c7c1462e74d9e687c52a82f5519e",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_8.json",
+      "sha256": "ca673c6902e31ee8c498ad1913b3eec2617b015325db87bad9118c40ae921e42",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Train/receiver_9.json",
+      "sha256": "62667c7995d200c08b176047eb0ab0fe8f9e6e1a888c4b0c71eb61b163d1c3a5",
+      "split": "train",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_0.json",
+      "sha256": "2c76e1ea54d692d584f26991916656bc3e209d4e3858432e2b9f9f2b8f7959f6",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_1.json",
+      "sha256": "0876fa3f308037c7ae198665745e9d91b4d2678e013da015c58f36d31b279d64",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_10.json",
+      "sha256": "7d4bc64f3cdb3579b3b5507e58f9e2654255efdec7e1484daeba29665500aaf1",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_11.json",
+      "sha256": "ef7625eb9478e1096929ac51d30abc0c92bcc1844f483a2a6a8b69757986277f",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_2.json",
+      "sha256": "b8619609c8b5052e8bc3d7ae63c2118ea064b4182ef86c46516b567dcfef7f70",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_3.json",
+      "sha256": "bbb61618193da5d5639ad7838595298d6dc8abe12ce47ca546f8f2fc0eb060ac",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_4.json",
+      "sha256": "88a78057e8610a989682b9d3db96512a35607c66eea3961d22ea5adc8dfdf49e",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_5.json",
+      "sha256": "fe5f2a66a5e7a4414db77654c0736caf724c92f977fd2c0ce070d594e882f3fd",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_6.json",
+      "sha256": "3df200c3af85ec7d673a647fad275f945a1ce6c837fc6a8a5a89c69c7a7038d0",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_7.json",
+      "sha256": "dec6a013403991a45c9fc095fcfcb68ef1c8b3cd18c50545bf5de7ba973b44b8",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_8.json",
+      "sha256": "8ed3cb28875aee433b7dc9b6267dd8a32a4af40a6fa3da3ed0d7cfaa5a9636b4",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/benign/benign/Validation/receiver_9.json",
+      "sha256": "6f860a9e54919b237c14405c13ee8e6e096250382045c3177820fd47f7729d2b",
+      "split": "validation",
+      "role": "baseline",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_0.json",
+      "sha256": "bf21a44519e3feeb0684f868d257dd2edeb47391e92aa75e927304e46a1b0a75",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_1.json",
+      "sha256": "662c2beca31ec080c274a5e2d5618253beb9271f08ff4b2417502896c820e7b5",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_10.json",
+      "sha256": "6609faef57fecbbc70f082bd40ba37fa5004c15ecd9a55668e500a839902253f",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_11.json",
+      "sha256": "c96bb4ba972ee9bc58889cf6ad4eb6c81827f07e33f0f2d167ca943290d0a271",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_2.json",
+      "sha256": "2e0c81c99b894261f5f8888bf5003bbc2840034d26b3a4b8910e02bae05e8905",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_3.json",
+      "sha256": "8bc225d9b39777a53dcae87bee5c68e41aadd8476c580027c1523974d0184e17",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_4.json",
+      "sha256": "a65cba8876acf7cc908b0f8c5e07aa1803a07ea7df6478fa1a1aae964a8823c9",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_5.json",
+      "sha256": "aed6fec87ce24b32bf84176bf9b5a953ea0d3c6bf50a2dfdb7235b8f3c21c0d2",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_6.json",
+      "sha256": "0bac55457088dca12ebf14e4b987e1af1c5f0e02e5d94c2dd28621236555d0ae",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_7.json",
+      "sha256": "6dc6fe57e4c5d1142217a91ee4c941f668e306e2e1f2f94cf1a69cea333926fa",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_8.json",
+      "sha256": "97d1129ea73be45f417ea6aec9df836658725ada639b9053403c2bd2e77b8765",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/constantPositionOffset/Test/receiver_9.json",
+      "sha256": "d641c8b4f9ba57bea578500c7c5452f95168e18a2f6984b7569283b723bd7534",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_0.json",
+      "sha256": "b6c20d07544fc9654dd59e1e45938e2dd8b685f43482ef9ab31bf529b9a006a4",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_1.json",
+      "sha256": "1ee88e461b574b6c96b7e14a084bffd663470db545b2ad7d3d3a1f2499241a96",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_10.json",
+      "sha256": "db8e0e2cd58cb9bbcb98273a5421b7050d49ff00f416d1d3a13c2b380725dac2",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_11.json",
+      "sha256": "23cbd45701b4203e084b2f07b6582900edd3e5844bab23bb742c4e8c310e65f1",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_2.json",
+      "sha256": "af2334897a623bbb13ad88285834cbef82c4624f375aa0eefbe4968af0a03fd9",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_3.json",
+      "sha256": "7efd82038e3b26fc98696ac2fea31d2523ec2332988c91d83914817515f69f38",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_4.json",
+      "sha256": "38183af0d1723a0bab2e854688e5cb6e087eaa01f9d83d93e9fefff67906b829",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_5.json",
+      "sha256": "cc7fef57dfa56f88f09c07ed0f45d78fa37542ccd7057ea98f695f96dc2f37af",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_6.json",
+      "sha256": "3c5fd95d3467b01c427fa11f231fe6031a34de35080c218c1e72a7885260d498",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_7.json",
+      "sha256": "e4de18de72a1317fe9f6278781719dc1c23a7044bc18ee349c2322010b55cc52",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_8.json",
+      "sha256": "67aafc1b8f8739d79be7741cc7f65483ee1a002acc87d91933cd345efcb85292",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/dosAttack/Test/receiver_9.json",
+      "sha256": "5573e615acf20f848fb2f8dc18f9ce9baad54e07c6cc5790ad1f660db260b9f6",
+      "split": "test",
+      "role": "attack",
+      "records": 605
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_0.json",
+      "sha256": "5eaa335476f628d15f89c2af4670318cc4ec11acb39699ad7e0c49ef1364b6bd",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_1.json",
+      "sha256": "5ade80c73588bccb6743dcfb119f895903a826b6ee8f61a5a394d0829fcc0959",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_10.json",
+      "sha256": "536f8f721315464660202b9da7f7bc7324307e688d783db1e2fab898a04b1340",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_11.json",
+      "sha256": "c021c90e880fda8e2d66f200278d91fe60bb6ef9b1869689799fd62cdacac7fe",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_2.json",
+      "sha256": "d3cd3519e3bcab8732289ef77d8eb36a02d702a0726f4111095c1fc197dbd6a6",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_3.json",
+      "sha256": "ef5639826272fc64c4c25aeb8dbad5b72ca7a7700efdcc379fbc24c6df67e097",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_4.json",
+      "sha256": "19a4d026af337496d1a7bad03268e7dca021bab49390196d5bee82ccbd56e50f",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_5.json",
+      "sha256": "f4f4bcadbecf8d5ca13de3a82da697052eaac27d7ba06facfa3c574f7860cee6",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_6.json",
+      "sha256": "dfebe736b1335029b5cc8f80571097850cdb681955b63ec64d11e5601b2eafe2",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_7.json",
+      "sha256": "42334814590917e74b25e91e531a8b3b20d05dd06053167c7a36641b1c74802d",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_8.json",
+      "sha256": "4fd58ca2001bb73a74606b0a6fecf2a6442ef362294451a42b800c085047d311",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/reversedHeading/Test/receiver_9.json",
+      "sha256": "85794e3776bca0eb488ca71b34d56a72087cbeb345187a380985e1fb2649603d",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_0.json",
+      "sha256": "e15e1b3fec435d008f5d1e1a3d647b1b5b320022177ee034363e1001869fde8f",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_1.json",
+      "sha256": "e1975e899b96b84d0d9c34a5c43286b55227e9595ca434aa0b02062b40a42289",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_10.json",
+      "sha256": "0dd09bbbcf38de47141718d3d4e5b7111263bca31cfe76b72b426701401aa036",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_11.json",
+      "sha256": "12bea3f2cddff651544f5b6065a0d52be614aa14341fd67e88d2f970995f9f1d",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_2.json",
+      "sha256": "0a4661426154acff67e8730c6f654317d9985740ab1643abce17ed180df79765",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_3.json",
+      "sha256": "7a55c4e49dfae0023761ebe062a5f00c6d9e71aa2518672b99ff2a0387a501bc",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_4.json",
+      "sha256": "4e7db0977f33b39008c92ee76b6da92c1853c76b9e088a0803805ce9634dc8f8",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_5.json",
+      "sha256": "8dc4fd88a96e8b62a692017863374d2555873face462bb2ffe0cddd2d5cd4c0f",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_6.json",
+      "sha256": "6364db96df11d336c7458980e9844d52b1ba50af89a0c62f46e4d07c92af9fe2",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_7.json",
+      "sha256": "b7964f1e06be24cc5b7e03316c2693fdc33ca5d7e13f00f754749ff5aa6ef98b",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_8.json",
+      "sha256": "b2729dc3f0a4f2c5049d97ab854d2857f1ba30f20f5dee2c4c82e7715eb0ece0",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    },
+    {
+      "file": "/workspace/scratch/8b2d6290ec85/FedContextTrust_V2X/runs/release_demo/raw/attacks/timeDelayAttack/Test/receiver_9.json",
+      "sha256": "50fa332b49b81749d6ede48087f329e5dbe3c5fb2a1c193b0a2179beaf25f35e",
+      "split": "test",
+      "role": "attack",
+      "records": 325
+    }
+  ],
+  "skipped_files": [],
+  "invalid_examples": [],
+  "invalid_records": 0,
+  "manifest_assumed_benign_records": 11700,
+  "parsed_records": 30660,
+  "timestamp_unit": "ns"
+}
